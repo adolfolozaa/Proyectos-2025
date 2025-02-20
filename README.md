@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ML
-- 🌱 I’m currently learning AI 
+- 🔭 2025 Projects using Python
+
 <!--
 **adolfolozaa/adolfolozaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
